@@ -1,0 +1,2 @@
+# odoo_study_resource
+odoo_study_resource
